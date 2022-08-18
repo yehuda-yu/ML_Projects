@@ -1,4 +1,4 @@
-# **$CO_2$ levels prediction**
+# **$\CO_2$ levels prediction**
 
 $CO_2$ levels in the air change in time and space. 
 The CO2 values affect many environmental factors and are affected, among other things, by vegetation, emissions from cars or industry, etc.
