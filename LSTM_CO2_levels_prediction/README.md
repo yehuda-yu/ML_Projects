@@ -1,8 +1,5 @@
 # **$CO_2$ levels prediction**
 
-$CO_2$ levels in the air change in time and space. 
-The CO2 values affect many environmental factors and are affected, among other things, by vegetation, emissions from cars or industry, etc.
-While other environmental data is available almost everywhere, $CO_2$ data requires more expensive sensors and is often not available everywhere.
+The levels of $CO_2$ in the atmosphere fluctuate with time and location, influenced by various factors such as vegetation and industrial/vehicular emissions. While other environmental data is widely accessible, $CO_2$ measurements often require costly sensors and may not be readily available.
 
-In this model I will try to predict the levels of $CO_2$ in the air based on radiation, temperature and relative humidity data collected using precise sensors.
-Since these climatic factors directly affect the photosynthesis rate of the plants, I assume that they have some correlation to the CO2 levels in the atmosphere.
+This project aims to predict $CO_2$ concentrations in the air through the use of temperature, radiation, and relative humidity data gathered from precise sensors. These climate variables directly impact the rate of photosynthesis in plants, hence I hypothesize that they have a correlation with the $CO_2$ levels in the atmosphere.
